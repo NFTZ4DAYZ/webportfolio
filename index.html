@@ -607,21 +607,20 @@
         <div class="col-md-7 col-lg-5">
           <div class="contacts__form">
             <p class="contacts__form-title">Send me a Message_</p>
-            <form class="js-form">
+           <form name="contact" method="post" data-netlify="true">          <!--class="js-form" -->
               <div class="form-group">
-                <input class="form-field js-field-name" type="text" placeholder="Your name" required>
-                <span class="form-validation"></span>
-                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+                <input class="form-field" name="tex" type="text" placeholder="Your name" required>     <!--js-field-name -->
+                <!-- <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span> -->
               </div>
               <div class="form-group">
-                <input class="form-field js-field-email" type="email"  placeholder="Your e-mail" required>
-                <span class="form-validation"></span>
-                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+                <input class="form-field" type="email" name="emai"  placeholder="Your e-mail" required> <!-- js-field-email-->
+                <!-- <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span> -->
               </div>
               <div class="form-group">
-                <textarea class="form-field js-field-message" placeholder="Type the message here" required></textarea>
-                <span class="form-validation"></span>
-                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+                <textarea class="form-field" name="mess" placeholder="Type the message here" required></textarea> <!--js-field-message-->
+                <!-- <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span> -->
               </div>
               <button class="site-btn site-btn--form" type="submit" value="Send">Send</button>
             </form>
