@@ -16,6 +16,6 @@ About Me section
 
 ### Follow up
 
-Adding a blog where I will provide consistent content related to advanced technology and sociology highlighting my abilities as social engineer.
+Adding a tech blog where I will provide consistent content related to advanced technology and sociology highlighting my abilities as social engineer.
 
 Adding blockchain projects to highlight profciency working with smart contracts on Solidity 
