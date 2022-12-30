@@ -8,7 +8,7 @@ This premium portfolio will be used to list my work and I used HTML, CSS, JavaSc
 
 Used Canva to generate custom images that highlight my passions and designed a custom logo for the site.
 
-Favorite quotes slider on the bottom
+Favorite quotes slider on the bottom for those interested in tech/spirituality quotes.
 
 Section with short resume explaining why I'm the man for your job.  
 
