@@ -87,4 +87,32 @@
 .max {
     max-width: 90%;
 }
+
+
+#para {
+    color: rgba(61, 59, 65, 0.95);
+    font-size: 1.75rem;
+    font-family: 'Sofia Sans', sans-serif;
+
+
+}
+
+.lit {
+    color:  rgba(86, 36, 210, 0.95);
+    font-size: 1.75rem;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.semi {
+    color:rgb(166, 103, 216);
+    font-size: 1.75rem;
+    font-family: 'Sofia Sans', sans-serif;
+
+}
+
+.list {
+    text-align: center;
+
+
+}
  
