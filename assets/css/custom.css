@@ -67,7 +67,7 @@
 
 .text {
     font-weight: bold;
-    color: #6d56c1;
+    color:  RGB(91, 94, 166);
     display: inline-block;
 }
 
@@ -114,5 +114,22 @@
     text-align: center;
 
 
+}
+
+.section__title {
+    color: RGB(91, 94, 166);
+    
+}
+
+p, div {
+    color: RGB(152, 180, 212)
+}
+
+.end {
+    color : hsla(0,34%,71%,.95);
+}
+
+.project-card__stack, li {
+    color:  hsla(0,34%,71%,.95);
 }
  
