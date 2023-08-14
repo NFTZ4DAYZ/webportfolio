@@ -1,4 +1,4 @@
-# Software Engineer Portfolio
+# Software Engineer Portfolio <a href="https://dexdaghost.netlify.app/" target="_blank">Play Here</a>
 
 It's a bird, no it's a plane, Nope it's my web dev portfolio!
 
@@ -18,4 +18,11 @@ About Me section
 
 Adding a tech blog where I will provide consistent content related to advanced technology and sociology highlighting my abilities as social engineer.
 
-Adding blockchain projects to highlight profciency working with smart contracts on Solidity 
+Adding blockchain projects to highlight proficiency working with smart contracts on Solidity 
+
+<a href='"https://dexdaghost.netlify.app/' target='_blank'><img src='https://i.postimg.cc/d311H8pt/dexdaghost.jpg' border='0' alt='memory-Game'/></a>
+
+
+
+
+
