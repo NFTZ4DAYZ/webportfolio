@@ -1,4 +1,4 @@
-# Software Engineer Portfolio <a href="https://dexdaghost.netlify.app/" target="_blank">Play Here</a>
+# Software Engineer Portfolio <a href="https://dexdaghost.netlify.app/" target="_blank">Dive In</a>
 
 It's a bird, no it's a plane, Nope it's my web dev portfolio!
 
