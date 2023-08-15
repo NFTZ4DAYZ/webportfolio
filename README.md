@@ -12,7 +12,7 @@
 
 ~About Me section
 
-###Technology 
+### Technology 
 
 ~HTML, CSS3, JavaScript, PHP
 
