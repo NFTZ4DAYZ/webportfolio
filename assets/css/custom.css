@@ -133,3 +133,20 @@ p, div {
     color:  hsla(0,34%,71%,.95);
 }
  
+
+.quantum {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    color: grey;
+}
+.quant {
+    color:grey;
+
+}
+
+.resume-list__block-date,
+.resume-list__block-title,
+.resume-help {
+text-align: center;
+}
