@@ -1,21 +1,26 @@
-# Software Engineer Portfolio
+# Software Engineer Portfolio <a href="https://dexdaghost.netlify.app/" target="_blank">Dive In</a>
 
-It's a bird, no it's a plane, Nope it's my web dev portfolio!
+~It's a bird, no it's a plane, Nope it's my web dev portfolio!
 
 ## Overview
 
-This premium portfolio will be used to list my work and I used HTML, CSS, JavaScript, PHP, & even SASS in producing it.
+~This premium portfolio is used to showcase my work and provide ways to get in contact with me 
 
-Used Canva to generate custom images that highlight my passions and designed a custom logo for the site.
+~Favorite quotes slider on the bottom for those interested in tech/spirituality quotes.
 
-Favorite quotes slider on the bottom for those interested in tech/spirituality quotes.
+~Section with short resume with summary of skills and pertinent experience
 
-Section with short resume explaining why I'm the man for your job.  
+~About Me section
 
-About Me section
+### Technology 
 
-### Follow up
+~HTML, CSS3, JavaScript, PHP
 
-Adding a tech blog where I will provide consistent content related to advanced technology and sociology highlighting my abilities as social engineer.
+~Canva - generate custom images that highlight my passions and designe a custom logo for the site.  
 
-Adding blockchain projects to highlight profciency working with smart contracts on Solidity 
+<a href='"https://dexdaghost.netlify.app/' target='_blank'><img src='https://i.postimg.cc/d311H8pt/dexdaghost.jpg' border='0' alt='memory-Game'/></a>
+
+
+
+
+
